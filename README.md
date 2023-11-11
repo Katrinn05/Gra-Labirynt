@@ -9,3 +9,8 @@ Celem projektu jest stworzenie platformowej gry 2D, polegającej na przechodzeni
 1. Po planszy-tablicy poruszamy się strzałkami, program odpowiednio reaguje w zależności na jakie pole chcemy przejść.
 1. **Pygame** - stworzymy w nim prosty interfejs gry (jest dostępnych wiele tutoriali).
 1. Grafiki będą tworzone za pomocą programów FireAlpaca (możliwość tworzenia animacji) i Krita, przy potrzebie wykorzystania programu o bardziej zaawansowanych funkcjach użyjemy programu Paint Tool Sai/Paint Tool Sai 2.
+
+### Cele poboczne projektu
+1. Zdobycie umiejętności programowania w **pythonie**. Podstawowych oraz tych zorientowanych na kodowaniu mechaniki gier.
+1. Poznanie różnorodnych narzędzi informatycznych, które ułatwiają współpracę między uczestnikami projektu.
+1. Doskonalenie umiejętności pracy w zespole.
