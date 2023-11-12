@@ -39,7 +39,7 @@ Grafika będzie inspirowana tą z gry sieciowej margonem
 1. Labirynt może być zapisany jako lista dwuwymiarowa: poszczególne pola byłyby korytarzem/ ścianami/ monetami/ etc.
 1. Po planszy-tablicy poruszamy się strzałkami, program odpowiednio reaguje w zależności na jakie pole chcemy przejść.
 1. **Pygame** - stworzymy w nim prosty interfejs gry (jest dostępnych wiele tutoriali).
-1. Grafiki będą tworzone za pomocą programów FireAlpaca (możliwość tworzenia animacji) i Krita, przy potrzebie wykorzystania programu o bardziej zaawansowanych funkcjach użyjemy programu Paint Tool Sai/Paint Tool Sai 2.
+1. Grafiki będą tworzone za pomocą programów FireAlpaca (możliwość tworzenia animacji) i Krita.
 
 ### Cele poboczne projektu:
 1. Zdobycie umiejętności programowania w **pythonie**. Podstawowych oraz tych zorientowanych na kodowaniu mechaniki gier.
