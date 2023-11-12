@@ -15,6 +15,10 @@ Poniższe rysunki poglądowo przedstawiają nasz pomysł:
 
 ![ilustracja labirynt i pole widzenia](/zdjecia/pole%20widzenia.jpg)
 
+### Grafika
+Grafika będzie inspirowana tą z gry sieciowej margonem
+
+
 ### Elementy dodatkowe, potencjalne obszary rozwijania projektu:
 - Dodanie kolejnych poziomów gry do tych głównych, a także stworzenie poziomów innego typu np. *“gra na czas”* - w ograniczonym czasie trzeba znaleźć wyjście z labiryntu. Mogłyby to być poziomy bonusowe, takie odblokowywane w trakcie gry, lub w ogóle osobny tryb gry, wybierany podczas logowania. Gracz wchodząc do gry ma do wyboru:
 *{Tryb fabularny}*
