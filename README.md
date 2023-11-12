@@ -1,7 +1,19 @@
 # Noname
+## Autorzy
+Jest to wspólny projekt grupy w składzie:
+Maciej Jamroży
+Anna Moroń 
+Katsiaryna Naumovich
+Zuzanna Pawłowska
+Joanna Wojnowska
+## licencja 
+MIT Licence - szczegóły w LICENSE
 ## Labirynt
 ### Główne założenia
 Celem projektu jest stworzenie platformowej gry 2D, polegającej na przechodzeniu labiryntu, który nie jest widoczny w całości. Gracz może poruszać się swoją postacią po planszy, jednak widzi tylko jej część wokół siebie, w postaci aureoli. Do dyspozycji ma mini-mapę pokazującą jego ogólne położenie względem krańców mapy.
+Poniższe rysunki poglądowo przedstawiają nasz pomysł:
+
+![ilustracja labirynt i pole widzenia](/zdjecia/pole%20widzenia.jpg)
 
 ### Elementy dodatkowe, potencjalne obszary rozwijania projektu:
 - Dodanie kolejnych poziomów gry do tych głównych, a także stworzenie poziomów innego typu np. *“gra na czas”* - w ograniczonym czasie trzeba znaleźć wyjście z labiryntu. Mogłyby to być poziomy bonusowe, takie odblokowywane w trakcie gry, lub w ogóle osobny tryb gry, wybierany podczas logowania. Gracz wchodząc do gry ma do wyboru:
