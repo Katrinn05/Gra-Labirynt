@@ -1,11 +1,11 @@
 # Noname
 ## Autorzy
-Jest to wspólny projekt grupy w składzie:
-Maciej Jamroży
-Anna Moroń 
-Katsiaryna Naumovich
-Zuzanna Pawłowska
-Joanna Wojnowska
+Jest to wspólny projekt grupy w składzie:  <br>
+Maciej Jamroży  <br>
+Anna Moroń  <br>
+Katsiaryna Naumovich  <br>
+Zuzanna Pawłowska  <br>
+Joanna Wojnowska  <br>
 ## licencja 
 MIT Licence - szczegóły w LICENSE
 ## Labirynt
