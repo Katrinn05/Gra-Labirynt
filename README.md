@@ -1,5 +1,5 @@
 # Noname
-Zmiana
+Tworzę jakiś konflikt :((
 ## Autorzy
 Jest to wspólny projekt grupy w składzie:  <br>
 Maciej Jamroży  <br>
