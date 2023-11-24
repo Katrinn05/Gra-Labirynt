@@ -1,7 +1,7 @@
 import msvcrt
 
 # Funkcja do rysowania planszy
-def draw_board():
+def draw_board(player_x, player_y):
     pass
 
 # Pozycja startowa
