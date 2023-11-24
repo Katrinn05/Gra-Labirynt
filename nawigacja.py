@@ -1,9 +1,5 @@
 import msvcrt
 
-# Funkcja do rysowania planszy
-def draw_board():
-    pass
-
 # Pozycja startowa
 x, y = 1, 1
 
