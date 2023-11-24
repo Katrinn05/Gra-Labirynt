@@ -21,3 +21,5 @@ while True:
         y -= 1
     elif key == 'd' and board[x][y+1] == 0:  # Prawo
         y += 1
+    elif key == 'q':  # Wyjście z gry
+        break
