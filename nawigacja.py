@@ -1,10 +1,14 @@
 import msvcrt
 
+# Funkcja do rysowania planszy
+def draw_board():
+    pass
+
 # Pozycja startowa
 x, y = 1, 1
 
 while True:
-  
+
     # Odczytywanie ruchu gracza
     key = msvcrt.getch().decode('utf-8').lower()
 
