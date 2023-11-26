@@ -1,2 +1,6 @@
+
 Pierwszy tekst potrzebny do wywołania konfliktu
 Zawartość dodana, wywołująca konflikt
+
+Inny tekst
+
