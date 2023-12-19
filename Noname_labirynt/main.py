@@ -1,4 +1,7 @@
 import pygame
+import os
+
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 pygame.init()
 screen = pygame.display.set_mode((960, 768))
